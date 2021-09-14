@@ -1,0 +1,22 @@
+{
+  "title": "文件对比工具总结",
+  "description": "总结各种文件内容比较工具。包括专业的非常好用的Beyond Comapre，以及常用的基本够用的VSCode的文件比较，以及其他一些文件比较工具，比如Notepad++的Compare插件的文件比较，WinMerge，diffuse，KDiff3，Meld等。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "file_compare_tool_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/books/file_compare_tool_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.com/books/file_compare_tool_summary/pdf/file_compare_tool_summary.pdf"
+    }
+  }
+}

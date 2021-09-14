@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0",
+  "lastUpdate": "20210914",
+  "gitRepoName": "file_compare_tool_summary",
+  "bookName": "文件对比工具总结",
+  "bookDescription": "总结各种文件内容比较工具。包括专业的非常好用的Beyond Comapre，以及常用的基本够用的VSCode的文件比较，以及其他一些文件比较工具，比如Notepad++的Compare插件的文件比较，WinMerge，diffuse，KDiff3，Meld等。"
+}
